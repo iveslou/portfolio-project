@@ -1,0 +1,14 @@
+{
+    "name": "portfolio-project",
+    "version": "0.0.1",
+    "description": "Blog to document project progress.",
+    "main": "src/script.js",
+    "scripts": {
+        "start": "node src/script.js"
+    },
+    "author": "yukilou",
+    "license": "MIT",
+    "dependencies": {
+        "express": "4.18.2"
+    }
+}
